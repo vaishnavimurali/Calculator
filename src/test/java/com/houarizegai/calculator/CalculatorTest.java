@@ -18,7 +18,7 @@ class CalculatorTest {
      */
     @Test
     void testCalc() {
-        double first = 3;
+        double first = 2;
         String second = "5";
 
         try {
